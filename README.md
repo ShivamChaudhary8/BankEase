@@ -1,0 +1,1 @@
+**BankEase** is a Java-based system that simplifies bank account management by automating tasks like data entry, validation, and updates. Built using **Core Java** (Swing & AWT), **MySQL**, and **NetBeans**, it enhances efficiency, reduces transaction time, and offers modern solutions for users and administrators.
